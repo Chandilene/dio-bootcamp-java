@@ -1,27 +1,15 @@
 package edu.chandilene.operadoresemJava;
 
-public class operadores {
+public class Operadores {
     public static void main(String[] args) {
-        // String nomeCompleto = "Catia" + "Soares";
-        // System.out.println(nomeCompleto);
+        int soma = 2 + 2;
+        int subtracao = 2 - 2;
+        int multiplicacao = 2 * 2;
+        int divisao = 2 / 2;
+        int modulo = 18 % 5;
+        int resultado = 10 + (2 * 9);
 
-        String concatenacao = "?";
-
-        concatenacao = 1 + 1 + 1 + "1";
-        System.out.println(concatenacao);
-
-        concatenacao = 1 + "1" + 1 + 1;
-        System.out.println(concatenacao);
-
-        concatenacao = 1 + "1" + 1 + "1";
-        System.out.println(concatenacao);
-
-        concatenacao = "1" + 1 + 1 + 1;
-        System.out.println(concatenacao);
-
-        concatenacao = "1" + (1 + 1 + 1);
-        System.out.println(concatenacao);
+        System.out.println(resultado);
 
     }
-
 }
