@@ -1,5 +1,6 @@
 public class caixaEletronico {
     public static void main(String[] args) {
+        // Condicional Simples
         double saldo = 25.0;
         double valorSaque = 27.0;
 
