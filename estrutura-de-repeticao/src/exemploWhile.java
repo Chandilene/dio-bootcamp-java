@@ -13,7 +13,7 @@ public class exemploWhile {
             mesada = mesada - valorDoce;
         }
         System.out.println("Mesada: " + mesada);
-        System.out.println("João gastou toda a mesada om doces");c
+        System.out.println("João gastou toda a mesada om doces");
     }
 
     private static double valorAleatorio() {
